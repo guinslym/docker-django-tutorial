@@ -4,8 +4,11 @@ ehthumbs.db
 *.egg-info
 *.pot
 *.py[co]
+composeexample\*.pyc
 # Folder config file
 Desktop.ini
+
+secret.txt
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
