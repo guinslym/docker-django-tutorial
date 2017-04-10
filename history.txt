@@ -1,0 +1,54 @@
+  513  cd Downloads/
+  514  cd docker-django-tutorial-master/
+  515  ls
+  516  docker-compose up
+  517  docker-compose up
+  518  docker --version
+  519  docker-machine --version
+  520  docker-compose --vers
+  521  docker-compose up
+  522  ls
+  523  vim composeexample/settings.py
+  524  docker-machine ls
+  525  docker-machine ip
+  526  docker-machine ip
+  527  docker-compose up
+  528  docker-compose run web
+  529  docker-compose run python manage.py migrate
+  530  docker run python manage.py migrate
+  531  docker-machine ip
+  532  docker images
+  533  docker rm $(docker ps -a -q)
+  534  docker images
+  535  docker rm $(docker ps -a -q)
+  536  docker rm $(docker ps -a -q)
+  537  docker images
+  538  docker images
+  539  docker rm $(docker ps -a -q)
+  540  docker rm $(docker ps -a -q)
+  541  docker images
+  542  docker rmi $(docker images -q)
+  543  docker images
+  544  docker-compose up
+  545  ls -al
+  546  sudo chown -R $USER:$USER .
+  547  sudo chown -R $USER:$USER .
+  548  ls -al
+  549  docker-compose up
+  550  docker-machine ip
+  551  docker-machine ip
+  552  docker-machine ip
+  553  docker-machine ip
+  554  echo $DOCKER_HOST
+  555  docker ps -a
+  556  docker inpect a25
+  557  docker inspect a25
+  558  echo $DOCKER_HOST
+  559  docker info
+  560  docker-machine start default
+  561  docker-machine env
+  562  eval $(docker-machine env)
+  563  eval $(docker-machine env)
+  564  docker-machine ip
+  565  history
+  566  history > history.txt
